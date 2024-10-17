@@ -21,6 +21,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>High School Graduate&apos;s Science Academy of South Texas</li>
+        <li>Major&apos;s The University of Texas Rio Grande Valley</li>
       </ul>
     ),
   },
